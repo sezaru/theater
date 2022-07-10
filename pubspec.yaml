@@ -4,7 +4,7 @@ version: 0.2.21
 repository: https://github.com/GlebBatykov/theater
 
 environment:
-  sdk: '>=2.15.0 <3.0.0'
+  sdk: '>=2.17.0 <3.0.0'
 
 # dependencies:
 
